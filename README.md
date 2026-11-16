@@ -35,9 +35,17 @@ Desktop tool that reads, edits and flashes engine computers over J2534, with its
 
 <img src="assets/wideband.jpg" width="720" alt="Wideband volumetric efficiency table editor">
 
+**DriveShift** · Rust, GPUI · open source (MIT)<br>
+Windows app that moves installed programs, Steam/Epic games and user data to another drive without reinstalling. It copies, verifies, then leaves a junction at the old path so shortcuts, updates and uninstallers keep working, with automatic undo if anything fails.
+
+<img src="assets/driveshift-logo.png" width="360" alt="DriveShift logo">
+
+**R50 → Infinite Tees** · PowerShell, Python, MediaPipe<br>
+Connects a Garmin Approach R50 launch monitor to the Infinite Tees golf sim from one desktop icon, then adds a spoken AI coach. It knows the club, each player's usual numbers and, through a face-on webcam with pose tracking, what their swing did differently on a bad shot.
+
 <table>
 <tr>
-<td width="50%"><b>EZAdvert</b> · TypeScript<br>Plain-English SEO audits and Google Ads reviews for small businesses.<br><img src="assets/ezadvert.jpg" alt="EZAdvert sample Google Ads review"></td>
+<td width="50%"><b>Adsight</b> (formerly EZAdvert) · TypeScript<br>Plain-English SEO audits, read-only Google Ads reviews and AI-written ads for small businesses.<br><img src="assets/ezadvert.jpg" alt="Adsight sample Google Ads review"></td>
 <td width="50%"><b>ResaleRadar</b> · Python<br>Finds underpriced local listings, estimates resale profit and sends alerts.<br><img src="assets/resaleradar.jpg" alt="ResaleRadar deals dashboard in demo mode"></td>
 </tr>
 <tr>
