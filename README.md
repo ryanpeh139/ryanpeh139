@@ -14,9 +14,9 @@ Most of my repositories are private because working businesses use them. Below i
 **ScopeVoice** · Kotlin, Android, Grok<br>
 An estimator walks the loss and talks. Speech becomes estimate line items, filed by room, with rules that keep mitigation and rebuild scopes apart.
 
-<a href="assets/scopevoice-demo.mp4"><img src="assets/scopevoice-demo.gif" width="720" alt="ScopeVoice walkthrough: dictating a kitchen and line items appearing by room"></a>
+<a href="https://ryanpeh139.github.io/ryanpeh139/scopevoice-demo.html"><img src="assets/scopevoice-demo.gif" width="720" alt="ScopeVoice walkthrough: dictating a kitchen and line items appearing by room"></a>
 
-▶ [Watch the 84-second walkthrough](assets/scopevoice-demo.mp4) (animated, sample data) · real app screens below
+▶ [Watch the 84-second walkthrough](https://ryanpeh139.github.io/ryanpeh139/scopevoice-demo.html) (animated, sample data) · real app screens below
 
 <img src="assets/scopevoice.jpg" width="720" alt="ScopeVoice: job list, job sheet with photos, and dictated line items by room">
 
