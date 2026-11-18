@@ -23,7 +23,9 @@ An estimator walks the loss and talks. Speech becomes estimate line items, filed
 **Job Tracker** · C#, ASP.NET Core, SQLite<br>
 Self-hosted office system for a restoration contractor: 11-stage job pipeline, sub bids, purchase orders, cost schedules and a rebuild burn sheet that fills itself. AI drafts need a person's approval before anything is saved.
 
-<img src="assets/job-tracker.jpg" width="720" alt="Job Tracker jobs list and pipeline">
+<a href="https://ryanpeh139.github.io/ryanpeh139/job-tracker-demo.html"><img src="assets/job-tracker-demo.gif" width="720" alt="Job Tracker walkthrough: jobs list, analytics, job overview, subcontractors, burn sheet, project map and dark mode"></a>
+
+▶ [Watch the 2-minute demo](https://ryanpeh139.github.io/ryanpeh139/job-tracker-demo.html) (placeholder data)
 
 **GutterFlow** · React, Supabase, Stripe · in production<br>
 Started as a tool I used while managing installs for a gutter company; now runs two of them. Photograph a handwritten quote and it becomes a job, then dispatch, invoicing and payment links.
@@ -47,9 +49,13 @@ Windows app that moves installed programs, Steam/Epic games and user data to ano
 **R50 → Infinite Tees** · PowerShell, Python, MediaPipe<br>
 Connects a Garmin Approach R50 launch monitor to the Infinite Tees golf sim from one desktop icon, then adds a spoken AI coach. It knows the club, each player's usual numbers and, through a face-on webcam with pose tracking, what their swing did differently on a bad shot.
 
+<a href="https://ryanpeh139.github.io/ryanpeh139/r50-demo.html"><img src="assets/r50-demo.gif" width="720" alt="R50 to Infinite Tees: live shots with the swing camera, the connection chain, the coach calling a miss, and commentary styles"></a>
+
+▶ [Watch the 4-minute demo](https://ryanpeh139.github.io/ryanpeh139/r50-demo.html) (sound on)
+
 <table>
 <tr>
-<td width="50%"><b>Adsight</b> (formerly EZAdvert) · TypeScript<br>Plain-English SEO audits, read-only Google Ads reviews and AI-written ads for small businesses.<br><img src="assets/ezadvert.jpg" alt="Adsight sample Google Ads review"></td>
+<td width="50%"><b>Adsight</b> (formerly EZAdvert) · TypeScript<br>Plain-English SEO audits, read-only Google Ads reviews and AI-written ads for small businesses.<br><img src="assets/adsight.jpg" alt="Adsight sample Google Ads review"></td>
 <td width="50%"><b>ResaleRadar</b> · Python<br>Finds underpriced local listings, estimates resale profit and sends alerts.<br><img src="assets/resaleradar.jpg" alt="ResaleRadar deals dashboard in demo mode"></td>
 </tr>
 <tr>
