@@ -44,7 +44,9 @@ Desktop tool that reads, edits and flashes engine computers over J2534, with its
 **DriveShift** · Rust, GPUI · open source (MIT)<br>
 Windows app that moves installed programs, Steam/Epic games and user data to another drive without reinstalling. It copies, verifies, then leaves a junction at the old path so shortcuts, updates and uninstallers keep working, with automatic undo if anything fails.
 
-<img src="assets/driveshift-logo.png" width="360" alt="DriveShift logo">
+<img src="assets/driveshift.jpg" width="720" alt="DriveShift Games tab moving a Steam game to D: with the six-step progress shown">
+
+<sub>Drawing of the Games tab mid-move, made from the app's own layout, wording and colors. Not a screenshot.</sub>
 
 **R50 → Infinite Tees** · PowerShell, Python, MediaPipe<br>
 Connects a Garmin Approach R50 launch monitor to the Infinite Tees golf sim from one desktop icon, then adds a spoken AI coach. It knows the club, each player's usual numbers and, through a face-on webcam with pose tracking, what their swing did differently on a bad shot.
